@@ -1,7 +1,11 @@
-# django-angular
+# Django, Django Rest e Angular
 
-#### Django
-O Django é um framework do Python, sendo assim baixado pelo próprio gerenciador de pacotes da linguagem, o Pip. Portanto, será necessário inicialmente instalar (ou atualizar, pois muitos sistema Unix possuem nativamente o Python) a linguagem Python. Para isso, execute:
+## Referência
+[Separando o Frontend do Backend com Angular e Django](https://humberto.io/blog/separando-o-frontend-do-backend-com-angular-e-django/)
+
+#### Ambiente virtual
+
+Instale a versão puthon 3
 ```
 $ sudo apt-get install python3
 ```
@@ -60,5 +64,5 @@ $ ng serve
 ```
 Após isso, é possível acessar o aplicativo no endereço `localhost:4200`.
 
-###Referências
+### Referências
 [Separando o Frontend do Backend com Angular e Django](https://humberto.io/blog/separando-o-frontend-do-backend-com-angular-e-django/)
